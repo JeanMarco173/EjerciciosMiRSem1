@@ -44,7 +44,7 @@ toUpperCase("anita lava la tina") // "ANITA LAVA LA TINA"
 toUpperCase("Hola") // "HOLA"
 ```
 
-#Ejercicio 5 - Colores hexadecimales
+# Ejercicio 5 - Colores hexadecimales
 
 Escribe una expresión regular que verifique si una cadena es un color hexadecimal válido como #f00 o #bada55. Recuerda que un color hexadecimal puede tener 3 o 6 caracteres, y cada caracter puede ir de 0 a 9 y de A a F.
 
